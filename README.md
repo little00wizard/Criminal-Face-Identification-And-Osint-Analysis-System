@@ -1,5 +1,5 @@
 # Criminal-Face-Recognition-with-OSINT-Tools
-# 🔍 Face Recognition with OSINT Tools
+# 🔍 Criminal Face Recognition with OSINT Tools
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat&logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?style=flat&logo=opencv)
