@@ -1,0 +1,8 @@
+opencv-python==4.10.0.84
+numpy==1.26.4
+tkinter==0.1.0
+requests==2.32.3
+beautifulsoup4==4.12.3
+exifread==3.0.0
+serpapi==0.5.0
+deepface==0.0.92
