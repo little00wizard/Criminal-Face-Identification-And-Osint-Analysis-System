@@ -84,5 +84,6 @@ Let me know if you'd like:
 
 ## 🧪 Sample Result
 ![Screenshot 2025-06-24 233824](https://github.com/user-attachments/assets/3e902fde-e569-4f62-826b-8e4f425ce75c)
+![Criminal Profile](https://github.com/user-attachments/assets/325fcf05-65e3-4757-b254-d8e205b5b851)
 
 ![Detect Criminals](https://github.com/user-attachments/assets/03e7fd57-d182-4cb0-a4cc-312bb5ddd7b6)
