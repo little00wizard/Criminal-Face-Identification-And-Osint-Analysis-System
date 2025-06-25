@@ -69,7 +69,7 @@ Social Media Results (Twitter):
 
 === OSINT Report for pradeep kumar ===
 Timestamp: 2025-06-16 20:18:38
-Query: pradeep kumar criminal
+Query: osama bin laden criminal
 Google Search Results:
 Social Media Results (Twitter):
 1. https://twitter.com/mockuser/status/0?q=pradeep kumar_crime
