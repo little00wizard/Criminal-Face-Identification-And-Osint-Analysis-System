@@ -148,7 +148,7 @@ Social Media Results (Twitter):
 2. https://twitter.com/mockuser/status/1?q=osama bin laden_crime
 3. https://twitter.com/mockuser/status/2?q=osama bin laden_crime
 
-=== OSINT Report for pradeep kumar ===
+
 Timestamp: 2025-06-16 20:43:53
 Query: pradeep kumar criminal
 Google Search Results:
