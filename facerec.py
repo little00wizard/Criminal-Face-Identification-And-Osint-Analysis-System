@@ -1,4 +1,4 @@
-# --- Enhanced facerec.py with Face++ and SERPAPI Integration ---
+
 
 import cv2
 import os
