@@ -1,4 +1,4 @@
-OSINT Analysis Report for pradeep kumar
+OSINT Analysis Report 
 name
 dob
 nationality
