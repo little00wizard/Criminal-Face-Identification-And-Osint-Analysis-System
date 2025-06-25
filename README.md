@@ -1,4 +1,4 @@
-# Criminal-Face-Recognition-with-OSINT-Tools
+# Criminal-Face-Recognition-With-OSINT-Tools
 A Python-based desktop application that combines facial recognition and open-source intelligence (OSINT) to identify individuals and extract their publicly available digital footprint. Ideal for cybercrime investigations, forensics, and ethical research.
 
 
