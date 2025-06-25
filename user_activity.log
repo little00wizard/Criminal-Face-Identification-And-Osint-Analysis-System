@@ -26,10 +26,10 @@
 2025-06-16 20:18:38,353 - WARNING - Google search failed for osama bin laden: search() got an unexpected keyword argument 'num_results'
 2025-06-16 20:18:38,353 - INFO - Social media search completed for osama bin laden
 2025-06-16 20:18:38,354 - INFO - OSINT results saved for osama bin laden to osint_result.txt
-2025-06-16 20:18:38,589 - INFO - OSINT analysis started for: pradeep kumar with query: pradeep kumar criminal
-2025-06-16 20:18:38,589 - WARNING - Google search failed for pradeep kumar: search() got an unexpected keyword argument 'num_results'
-2025-06-16 20:18:38,589 - INFO - Social media search completed for pradeep kumar
-2025-06-16 20:18:38,590 - INFO - OSINT results saved for pradeep kumar to osint_result.txt
+2025-06-16 20:18:38,589 - INFO - OSINT analysis started for: osama bin laden with query: osama bin laden criminal
+2025-06-16 20:18:38,589 - WARNING - Google search failed for osama bin laden: search() got an unexpected keyword argument 'num_results'
+2025-06-16 20:18:38,589 - INFO - Social media search completed for osama bin laden
+2025-06-16 20:18:38,590 - INFO - OSINT results saved for osama bin laden to osint_result.txt
 2025-06-16 20:18:56,756 - INFO - OSINT analysis started for: osama bin laden with query: osama bin laden criminal
 2025-06-16 20:18:56,757 - WARNING - Google search failed for osama bin laden: search() got an unexpected keyword argument 'num_results'
 2025-06-16 20:18:56,757 - INFO - Social media search completed for osama bin laden
@@ -62,7 +62,7 @@
 2025-06-16 20:43:52,979 - WARNING - Google search failed for osama bin laden: search() got an unexpected keyword argument 'num_results'
 2025-06-16 20:43:52,980 - INFO - Social media search completed for osama bin laden
 2025-06-16 20:43:52,981 - INFO - OSINT results saved for osama bin laden to osint_result.txt
-2025-06-16 20:43:53,105 - INFO - OSINT analysis started for: pradeep kumar with query: pradeep kumar criminal
-2025-06-16 20:43:53,105 - WARNING - Google search failed for pradeep kumar: search() got an unexpected keyword argument 'num_results'
-2025-06-16 20:43:53,105 - INFO - Social media search completed for pradeep kumar
-2025-06-16 20:43:53,106 - INFO - OSINT results saved for pradeep kumar to osint_result.txt
+2025-06-16 20:43:53,105 - INFO - OSINT analysis started for: osama bin laden with query: osama bin laden criminal
+2025-06-16 20:43:53,105 - WARNING - Google search failed for osama bin laden: search() got an unexpected keyword argument 'num_results'
+2025-06-16 20:43:53,105 - INFO - Social media search completed for osama bin laden
+2025-06-16 20:43:53,106 - INFO - OSINT results saved for osama bin laden to osint_result.txt
