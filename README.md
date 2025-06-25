@@ -76,10 +76,7 @@ CRIMINAL-FACE-IDENTIFICATION-SYSTEM/
 2. Paste this content into `README.md`.
 3. Replace placeholders like `[Your Name]` and `[your.email@example.com]`.
 
-Let me know if you'd like:
-- `requirements.txt`
-- GitHub repo setup help
-- Screenshots to embed inside README
+
 
 
 ## 🧪 Sample Result
