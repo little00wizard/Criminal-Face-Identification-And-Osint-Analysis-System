@@ -53,7 +53,7 @@ def registerCriminal(img, path, img_num):
 class RegisterCriminalApp:
     def __init__(self, master):
         self.master = master
-        master.title("Criminal Face Identification System")
+        master.title("Criminal Face  Identification System")
         master.configure(bg="#172c45")
         master.geometry("1000x600")
 
