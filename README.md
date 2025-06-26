@@ -70,13 +70,8 @@ CRIMINAL-FACE-IDENTIFICATION-SYSTEM/
 - OSINT results are stored in `osint_result.txt`.
 - User is alerted with a success message.
 
-### ✅ What You Should Do:
 
-1. Create a new GitHub repo and push your project.
-2. Paste this content into `README.md`.
-3. Replace placeholders like `[Your Name]` and `[your.email@example.com]`.
-
-
+####
 
 
 ## 🧪 Sample Result
