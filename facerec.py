@@ -9,9 +9,9 @@ import exifread
 import logging
 
 # API credentials
-SERPAPI_KEY = os.getenv('SERPAPI_KEY', '6fb94540c1e8f7cc71156368346caaa7c1e813ba7c6025a3afe607a97277a8bc')
-FACEPP_API_KEY = os.getenv('FACEPP_API_KEY', 't2f5YL6hGEv6ep01DxEGAic95eSGdU3A')
-FACEPP_API_SECRET = os.getenv('FACEPP_API_SECRET', 'Birv_W6VCMdalf002mRbnlzWY-y7hovk')
+SERPAPI_KEY = os.getenv('SERPAPI_KEY', 'Your-Api-Key')
+FACEPP_API_KEY = os.getenv('FACEPP_API_KEY', 'Your-Api-Key')
+FACEPP_API_SECRET = os.getenv('FACEPP_API_SECRET', 'Your-Api-Key')
 FACEPP_DETECT_URL = 'https://api-us.faceplusplus.com/facepp/v3/detect'
 
 # Logging setup
